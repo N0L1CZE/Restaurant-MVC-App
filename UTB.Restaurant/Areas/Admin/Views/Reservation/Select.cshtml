@@ -1,0 +1,69 @@
+﻿@model IEnumerable<UTB.Restaurant.Domain.Entities.Reservation>
+
+@{
+    ViewData["Title"] = "Reservations List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Reservation ID</th>
+            <th>User Name</th>
+            <th>User Email</th>
+            <th>Table Number</th>
+            <th>Reservation Date</th>
+            <th>Status</th>
+            @if (Model.Any(r => r.Status == null))
+            {
+                <th>Actions</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reservation in Model)
+        {
+            var rowClass = reservation.Status == true ? "table-success" : (reservation.Status == false ? "table-danger" : "");
+
+            <tr class="@rowClass">
+                <td>@reservation.Id</td>
+                <td>@reservation.User.FirstName @reservation.User.LastName</td>
+                <td>@reservation.User.Email</td>
+                <td>@reservation.Table.TableNumber</td>
+                <td>@reservation.ReservationDate</td>
+                <td>
+                    @if (reservation.Status == null)
+                    {
+                        <span class="badge secondary">Pending</span>
+                    }
+                    else if (reservation.Status == true)
+                    {
+                        <span class="badge success">Confirmed</span>
+                    }
+                    else
+                    {
+                        <span class="badge danger">Rejected</span>
+                    }
+                </td>
+
+                @if (reservation.Status == null)
+                {
+                    <td>
+                        <form method="post" action="@Url.Action("ChangeStatus", "Reservation", new { id = reservation.Id, status = true })" style="display:inline;">
+                            <button type="submit" class="btn btn-success">Potvrdit</button>
+                        </form>
+                        <form method="post" action="@Url.Action("ChangeStatus", "Reservation", new { id = reservation.Id, status = false })" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Zamítnout</button>
+                        </form>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Styles
+{
+    <link rel="stylesheet" href="~/css/status.css" asp-append-version="true" />
+}

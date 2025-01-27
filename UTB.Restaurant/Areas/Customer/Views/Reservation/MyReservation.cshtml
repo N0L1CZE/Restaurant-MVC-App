@@ -1,0 +1,49 @@
+﻿@model IEnumerable<UTB.Restaurant.Domain.Entities.Reservation>
+
+@{
+    ViewData["Title"] = "My Reservations";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h3>Pending Reservations</h3>
+@if (Model.Any(r => r.Status == null)) 
+{
+    <div class="list-group">
+        @foreach (var reservation in Model.Where(r => r.Status == null))
+        {
+            <a href="#" class="list-group-item list-group-item-action">
+                <h5 class="mb-1">Reservation ID: @reservation.Id</h5>
+                <p><strong>Table Number:</strong> @reservation.Table.TableNumber</p>
+                <p><strong>Reservation Date:</strong> @reservation.ReservationDate</p>
+                <span class="badge badge-secondary">Pending</span>
+            </a>
+        }
+    </div>
+}
+else
+{
+    <p>You have no pending reservations.</p>
+}
+
+<h3>Other Reservations</h3>
+@if (Model.Any(r => r.Status != null))
+{
+    <div class="list-group">
+        @foreach (var reservation in Model.Where(r => r.Status != null)) 
+        {
+            <a href="#" class="list-group-item list-group-item-action">
+                <h5 class="mb-1">Reservation ID: @reservation.Id</h5>
+                <p><strong>Table Number:</strong> @reservation.Table.TableNumber</p>
+                <p><strong>Reservation Date:</strong> @reservation.ReservationDate</p>
+                <span class="badge @(reservation.Status == true ? "badge-success" : "badge-danger")">
+                    @(reservation.Status == true ? "Confirmed" : "Rejected")
+                </span>
+            </a>
+        }
+    </div>
+}
+else
+{
+    <p>You have no confirmed or rejected reservations.</p>
+}

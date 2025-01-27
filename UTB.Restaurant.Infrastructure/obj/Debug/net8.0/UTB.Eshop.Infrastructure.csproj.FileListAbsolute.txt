@@ -1,0 +1,17 @@
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\bin\Debug\net8.0\UTB.Eshop.Infrastructure.deps.json
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\bin\Debug\net8.0\UTB.Eshop.Infrastructure.runtimeconfig.json
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\bin\Debug\net8.0\UTB.Eshop.Infrastructure.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\bin\Debug\net8.0\UTB.Eshop.Infrastructure.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\bin\Debug\net8.0\UTB.Eshop.Domain.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\bin\Debug\net8.0\UTB.Eshop.Domain.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.AssemblyInfo.cs
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Esho.EA58A7AB.Up2Date
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\refint\UTB.Eshop.Infrastructure.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\UTB.Eshop.Infrastructure.genruntimeconfig.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Infrastructure\obj\Debug\net8.0\ref\UTB.Eshop.Infrastructure.dll

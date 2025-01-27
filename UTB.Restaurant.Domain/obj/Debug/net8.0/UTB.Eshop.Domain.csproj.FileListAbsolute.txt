@@ -1,0 +1,11 @@
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\bin\Debug\net8.0\UTB.Eshop.Domain.deps.json
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\bin\Debug\net8.0\UTB.Eshop.Domain.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\bin\Debug\net8.0\UTB.Eshop.Domain.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\UTB.Eshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\UTB.Eshop.Domain.AssemblyInfoInputs.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\UTB.Eshop.Domain.AssemblyInfo.cs
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\UTB.Eshop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\UTB.Eshop.Domain.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\refint\UTB.Eshop.Domain.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\UTB.Eshop.Domain.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Domain\obj\Debug\net8.0\ref\UTB.Eshop.Domain.dll

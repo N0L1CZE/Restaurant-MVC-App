@@ -1,0 +1,17 @@
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Application.deps.json
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Application.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Application.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Domain.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Infrastructure.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Domain.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\bin\Debug\net8.0\UTB.Eshop.Infrastructure.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.csproj.AssemblyReference.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.AssemblyInfoInputs.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.AssemblyInfo.cs
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Esho.2EC25573.Up2Date
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\refint\UTB.Eshop.Application.dll
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\UTB.Eshop.Application.pdb
+C:\Users\Patrik\Desktop\Restaurace-main\UTB.Eshop.Application\obj\Debug\net8.0\ref\UTB.Eshop.Application.dll

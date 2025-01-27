@@ -1,0 +1,17 @@
+﻿.badge.secondary {
+    text-align: center;
+    color: #000000;
+    background-color: #f8f9fa; /* Pokud chceš změnit pozadí na světlou barvu */
+}
+
+.badge.success {
+    text-align: center;
+    color: #000000;
+    background-color: #28a745; /* Zelená pro Confirmed */
+}
+
+.badge.danger {
+    text-align: center;
+    color: #000000;
+    background-color: #dc3545; /* Červená pro Rejected */
+}
